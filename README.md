@@ -16,7 +16,7 @@ pip install -r requirements.txt
 To run the Jupyter notebook, it is necessary to install the classic Jupyter Notebook, one can find the instructions in the following [URL](https://jupyter.org/install). To execute the Jupyter notebook file, run:
 
 ```console
-jupyter notebook encert_examen.ipynb
+jupyter notebook examen.ipynb
 ```
 
 To execute the source code, run:
